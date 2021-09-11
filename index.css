@@ -1,0 +1,20 @@
+.ul1 {
+    list-style: none;
+    text-align: center;
+  }
+  .ulli {
+    display: inline-block;
+  }
+  a {
+    text-decoration: none;
+    border: 2px solid #0d2a47;
+    background-color: #ffffff;
+    color: #0d2a47;
+    padding: 7px;
+    border-radius: 5px;
+  }
+  a:hover {
+    color: rgb(49, 134, 212);
+    border-color: rgb(49, 134, 212);
+  }
+
